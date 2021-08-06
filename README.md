@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpayal0110
 - 👀 I’m interested in JAVA, Data Structure, Frontend Development.
-- 🌱 I’m currently completed Diploma in Advance Computing from CDAC.
+- 🌱 I currently completed Diploma in Advance Computing from CDAC.
 
 
 <!---
