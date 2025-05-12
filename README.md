@@ -1,8 +1,15 @@
 ### 👋 Hi, I’m Payal Jadhav
 
-- Graduate student at Northeastern University specilizing in Computer Software Engineering
-- With 2.5 years of experience in full-stack software development in Java, JavaScript, React.js, Vue.js, SQL, Python, and Cloud Technologies
-- Currently working on my expertise in AI/ML model development, Prompt Engineering, Cloud integration. Check out my recent project [EnrollAI](https://github.com/jpayal0110/EnrollAI.git) based on same.
+- Graduate student at Northeastern University specializing in Computer Software Engineering
+- ~3 years of experience in full-stack software development using Java, JavaScript, React.js, Vue.js, SQL, Python, and Cloud Technologies
+- Actively enhancing my skills in AI/ML model development, Prompt Engineering, and Cloud Integration
+
+### 🌟 Featured Projects
+
+- **[EnrollAI](https://github.com/jpayal0110/EnrollAI)** – An AI-driven course advisor platform built using Python and Machine Learning, integrated with a full-stack web interface
+- **[VibeCheck](https://github.com/jpayal0110/vibecheck)** – A music recommendation system that matches user moods using audio features and NLP-based input processing
+- **[Cloud-Native WebApp](https://github.com/jpayal0110/cloud-native-webapp)** – A RESTful Node.js application deployed on AWS with CI/CD via GitHub Actions, integrated with S3, RDS, and CloudWatch
+- **[Terraform AWS Infrastructure](https://github.com/jpayal0110/tf-aws-infra)** – Provisioned scalable, secure AWS infrastructure using Terraform, covering VPC, EC2, RDS, ALB, S3, IAM, and monitoring
 
 <!---
 jpayal0110/jpayal0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
