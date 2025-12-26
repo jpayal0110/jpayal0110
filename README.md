@@ -5,7 +5,7 @@
 - Actively enhancing my skills in AI/ML model development, Prompt Engineering, and Cloud Integration
 
 ### 🌟 Featured Projects
-- **[Smart-Whiteboard](https://github.com/jpayal0110/smart-whiteboard-app)** - Real-time collaboration smart whiteboard
+- **[WebRTC Ball Tracking](https://github.com/jpayal0110/webrtc-ball-tracking.git)** - Real-time collaboration smart whiteboard
 - **[VibeCheck](https://github.com/jpayal0110/vibecheck)** – A music recommendation system that matches user moods using audio features and NLP-based input processing
 - **[EnrollAI](https://github.com/jpayal0110/EnrollAI)** – An AI-driven course advisor platform built using Python and Machine Learning, integrated with a full-stack web interface
 - **[Cloud-Native WebApp](https://github.com/jpayal0110/cloud-native-webapp)** – A RESTful Node.js application deployed on AWS with CI/CD via GitHub Actions, integrated with S3, RDS, and CloudWatch
