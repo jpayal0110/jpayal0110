@@ -10,7 +10,9 @@ Lately, I’ve been exploring **applied AI and GenAI features**, including how m
 ---
 
 # 👩🏻‍💻Featured Projects (Software Engineering)
-
+- **[VoiceQL- Talk to your data](https://github.com/jpayal0110/voiceQL.git)**
+  AI-powered analytics platform that turns natural voice commands into executable SQL queries.
+  
 - **[WebRTC Ball Tracking](https://github.com/jpayal0110/webrtc-ball-tracking.git)**  
   Real-time ball tracking system using WebRTC and WebTransport over QUIC, focused on low-latency streaming and live state synchronization.
 
