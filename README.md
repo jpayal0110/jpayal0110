@@ -40,7 +40,7 @@ Lately, I’ve been exploring **applied AI and GenAI features**, including how m
   Location-based stock data visualization tool focused on geographic insights and trend analysis.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/payaljadhav11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpayal0110@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=firefox&logoColor=white)](https://jpayal0110.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/payaljadhav11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpayal0110@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=firefox&logoColor=white)](https://jpayal0110.github.io)
 
 
 # 💻 Tech Stack:
